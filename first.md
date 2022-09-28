@@ -46,27 +46,37 @@ JS
         이벤트 버블링?
         범위 프로토타입?
         셰도우 돔?
-        
+        라이브러리
+            Pixi.js
+            D3.js
+            Scrolla.js
+            Slick.js
+            jQuery
 버전컨트롤
-- 시간과 불확실성에 따른 패턴 관리하기
+    시간과 불확실성에 따른 패턴 관리하기
 패키지 매니저
-- 도구 관리하기
+    도구 관리하기 이거 클래스 모은거임
+    npm yarn
 CSS아키텍쳐
 CSS전처리기
 빌드 툴
-- 웹팩
+    이쁘게 만들기 Scss,Sass
 프레임워크
-- 리엑트
+    리엑트
 모던 CSS
 CSS프레임워크
+    bootstrap
+    tailwind
 테스팅
 타입스크립트
 웹앱
-SSR?
-GraphQL?
-Static Site Generators? Next.js?
+SSR? 서버에서 html 그려서 보냄 next.js가 ssr 프레임워크
+GraphQL? api 쿼리언어임
+Static Site Generators? Next.js? 정적사이트 생성기
 App
+    리엑트
 Desktop app
+    일렉트론
 Web assembly
 
 
