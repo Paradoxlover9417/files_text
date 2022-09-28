@@ -6,11 +6,21 @@ CSS
 JS
 버전컨트롤
 패키지 매니저
+CSS아키텍쳐
+CSS전처리기
 빌드 툴
 프레임워크
 모던 CSS
 CSS프레임워크
 테스팅
+타입스크립트
+웹앱
+SSR?
+GraphQL?
+Static Site Generators? Next.js?
+App
+Desktop app
+Web assembly
 
 
 
