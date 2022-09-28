@@ -91,20 +91,43 @@ Web assembly
 
 인터넷
 프론트앤드
+    HTML CSS JS
 운영체제
+    터미널
+    OS 작동방식
+    프로세스
+    스레드
+    메모리
+    인터프로세스 커뮤니케이션?
+    IO 관리?
+    POSIX?
+    네트워킹
+    터미널사용하기
 언어
+    JS
+    Phyon
+    SQL
+    Rust
 버전컨트롤
 관계데이터
+    SQl PostgreSQL
 깊은 데이터
+    ORM 클래스랑 데이터랑 이어주는 거?
 NoSQL
+    MongoDB
 APIs
+    JSON APIs
+    Authentification?
 캐시
+    CDN
 보안
+    HTTP
 테스팅
 CI/CD
 디자인패턴
 검색엔진
 컨테이너화 시각화
+    Docker
 프로젝트
 
 
